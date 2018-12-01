@@ -4,7 +4,7 @@
 
 ### Part 1
 
-```shell
+```
 For example, if the device displays frequency changes of +1, -2, +3, +1, then starting from a frequency of zero, the following changes would occur:
 
 Current frequency  0, change of +1; resulting frequency  1.
@@ -21,9 +21,9 @@ Here are other example situations:
 Starting with a frequency of zero, what is the resulting frequency after all of the changes in frequency have been applied
 ```
 
---- Part Two ---
+### Part Two
 
-```shell
+```
 You notice that the device repeats the same frequency change list over and over. To calibrate the device, you need to find the first frequency it reaches twice.
 
 For example, using the same list of changes above, the device would loop as follows:
